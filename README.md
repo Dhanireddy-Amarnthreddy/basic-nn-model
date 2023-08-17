@@ -76,7 +76,8 @@ my_brain.predict(input_scaled)
 ```
 ## Dataset Information
 
-<img width="138" alt="image" src="https://github.com/Pavan-Gv/basic-nn-model/assets/94827772/21d61956-2559-465a-8c8b-ac0f1d11e652">
+<img width="196" alt="set" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/5d715246-ca1b-42df-830a-80697df8cf1b">
+
 
 ## OUTPUT:
 

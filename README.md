@@ -82,17 +82,16 @@ my_brain.predict(input_scaled)
 ## OUTPUT:
 
 ### Training Loss Vs Iteration Plot
-
-<img width="327" alt="image" src="https://github.com/Pavan-Gv/basic-nn-model/assets/94827772/d2cf233c-906c-4cd3-a0bf-0b6569a3898d">
+<img width="497" alt="graph" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/5f82ddc6-b2e3-46b4-950e-3dfdc52eba46">
 
 ### Test Data Root Mean Squared Error
 
-<img width="326" alt="image" src="https://github.com/Pavan-Gv/basic-nn-model/assets/94827772/1b1d5640-5dc8-4c5a-b378-19888609f810">
+<img width="568" alt="1" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/f598854f-57e3-4186-8379-bd8140ac5d68">
 
 
 ### New Sample Data Prediction
 
-<img width="233" alt="image" src="https://github.com/Pavan-Gv/basic-nn-model/assets/94827772/7e72c01d-7ba7-4b2d-b4f4-8409f115b730">
+<img width="454" alt="2" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/ff966abd-8418-443b-93e2-b4dd09d219ff">
 
 ## RESULT:
 Therefore We successfully developed a neural network regression model for the given dataset.

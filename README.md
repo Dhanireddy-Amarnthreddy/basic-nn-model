@@ -112,12 +112,12 @@ my_brain.predict(input_scaled)
 
 ### Test Data Root Mean Squared Error
 
+<img width="463" alt="one" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/3700e9e5-6bcc-4596-9c9d-49005e9f51fe">
 
 
 ### New Sample Data Prediction
-<img width="364" alt="two" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/6c17ff80-3cac-496a-87a3-5ee475156a4f">
+<img width="364" alt="two" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/ecb751c2-5879-40ee-b70e-9b5654d0cf02">
 
-<img width="454" alt="2" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/ff966abd-8418-443b-93e2-b4dd09d219ff">
 
 ## RESULT:
 Therefore We successfully developed a neural network regression model for the given dataset.

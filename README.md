@@ -100,22 +100,25 @@ my_brain.predict(input_scaled)
 ```
 ## Dataset Information
 
-<img width="196" alt="set" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/5d715246-ca1b-42df-830a-80697df8cf1b">
+<img width="236" alt="sheet" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/3a305b8f-776f-4f69-9608-715dad386d8d">
+
 
 
 ## OUTPUT:
+## Input & Output Data :
+<img width="187" alt="11" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/25fc4418-fae5-4560-946b-f7a39713b834">
+
 
 ### Training Loss Vs Iteration Plot
 <img width="497" alt="graph" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/5f82ddc6-b2e3-46b4-950e-3dfdc52eba46">
 
 ### Test Data Root Mean Squared Error
 
-<img width="463" alt="one" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/3700e9e5-6bcc-4596-9c9d-49005e9f51fe">
+<img width="500" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/0af15ec1-c109-4091-b1e2-5f67a55da1f4">
 
 
 ### New Sample Data Prediction
-<img width="364" alt="two" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/ecb751c2-5879-40ee-b70e-9b5654d0cf02">
-
+<img width="341" alt="image" src="https://github.com/Dhanireddy-Amarnthreddy/basic-nn-model/assets/94165103/b76f5fa6-46a3-4103-8234-15992fcd768d">
 
 ## RESULT:
 Therefore We successfully developed a neural network regression model for the given dataset.
